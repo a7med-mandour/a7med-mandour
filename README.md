@@ -10,7 +10,7 @@ I'm a passionate AI and backend developer focused on building intelligent system
 
 ### 💻 Technologies & Tools:
 - **Languages**: Python, SQL, HTML
-- **AI/ML Frameworks**: TensorFlow, PyTorch, CV2, Transfromers, HuggingFace
+- **AI/ML Frameworks**: TensorFlow, PyTorch, Fastai, CV2, Transfromers, HuggingFace
 - **Backend**: Django, Flask
 - **Databases**: PostgreSQL, MongoDB
 - **DevOps/Tools**: Docker, Kubernetes, Git, CI/CD, AWS cloud practitioner 
@@ -27,7 +27,6 @@ I'm a passionate AI and backend developer focused on building intelligent system
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 
 
 ⭐️ Feel free to check out my repositories and reach out for collaborations!
