@@ -23,5 +23,9 @@ I'm a passionate AI and backend developer focused on building intelligent system
 - Email: [ahmedabdelhamied2501@gmail.com]
 - LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/a7med-mandour/)]
 ---
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
 
 ⭐️ Feel free to check out my repositories and reach out for collaborations!
